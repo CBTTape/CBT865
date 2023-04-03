@@ -1,0 +1,24 @@
+2023-04-03 03:17:11.194710 - Initialized conversion of CBT865
+2023-04-03 03:17:11.455053 - Received CBT.V504.FILE865.PDS from FILE865.XMI 
+2023-04-03 03:17:11.458417 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE865.PDS, moved to PDS/$$$#DATE
+2023-04-03 03:17:11.459770 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE865.PDS, moved to PDS/$$NOTE01
+2023-04-03 03:17:11.460785 - Found $$NOTE02.txt (text/plain) in CBT.V504.FILE865.PDS, moved to PDS/$$NOTE02
+2023-04-03 03:17:11.462008 - Found @FILE865.txt (text/plain) in CBT.V504.FILE865.PDS, moved to PDS/@FILE865
+2023-04-03 03:17:11.463225 - Found LINKZIP.jcl (text/plain) in CBT.V504.FILE865.PDS, moved to PDS/LINKZIP
+2023-04-03 03:17:11.504274 - Found LOADALT.xmi (application/xmit) in CBT.V504.FILE865.PDS
+2023-04-03 03:17:11.512983   - Received RECFM=U data, stored XMIT file as CBT865/LOADALT.xmi
+2023-04-03 03:17:11.556179 - Found LOADLIB.xmi (application/xmit) in CBT.V504.FILE865.PDS
+2023-04-03 03:17:11.564502   - Received RECFM=U data, stored XMIT file as CBT865/LOADLIB.xmi
+2023-04-03 03:17:11.603548 - Found LOAD1.xmi (application/xmit) in CBT.V504.FILE865.PDS
+2023-04-03 03:17:11.612496   - Received RECFM=U data, stored XMIT file as CBT865/LOAD1.xmi
+2023-04-03 03:17:11.613530 - Found LZIP.jcl (text/plain) in CBT.V504.FILE865.PDS, moved to PDS/LZIP
+2023-04-03 03:17:11.613542 - Found MINIUNZ.bin containing application/octet-stream, moved to PDS/MINIUNZ
+2023-04-03 03:17:11.614817 - Found MINIZIP.bin containing application/octet-stream, moved to PDS/MINIZIP
+2023-04-03 03:17:11.617018 - Found MINIZIP#.txt (text/plain) in CBT.V504.FILE865.PDS, moved to PDS/MINIZIP#
+2023-04-03 03:17:11.617027 - Found TESTHEX.bin containing application/octet-stream, moved to PDS/TESTHEX
+2023-04-03 03:17:11.619388 - Found UNZ01.jcl (text/plain) in CBT.V504.FILE865.PDS, moved to PDS/UNZ01
+2023-04-03 03:17:11.620394 - Found UNZ02.jcl (text/plain) in CBT.V504.FILE865.PDS, moved to PDS/UNZ02
+2023-04-03 03:17:11.621462 - Found UNZ99A.jcl (text/plain) in CBT.V504.FILE865.PDS, moved to PDS/UNZ99A
+2023-04-03 03:17:11.622467 - Found UNZ99AM.txt (text/plain) in CBT.V504.FILE865.PDS, moved to PDS/UNZ99AM
+2023-04-03 03:17:11.623531 - Found ZIP01.jcl (text/plain) in CBT.V504.FILE865.PDS, moved to PDS/ZIP01
+2023-04-03 03:17:11.624468 - Found ZIP02.jcl (text/plain) in CBT.V504.FILE865.PDS, moved to PDS/ZIP02
