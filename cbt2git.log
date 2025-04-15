@@ -1,29 +1,29 @@
-2025-04-13 23:37:55.705767 - Received CBT.V508.FILE865.PDS from FILE865.XMI 
-2025-04-13 23:37:55.707084 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/$$$#DATE
-2025-04-13 23:37:55.707167 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/$$NOTE01
-2025-04-13 23:37:55.707229 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/$$NOTE02
-2025-04-13 23:37:55.707288 - Found @FILE865.txt (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/@FILE865
-2025-04-13 23:37:55.707348 - Found LINKZIP.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/LINKZIP
-2025-04-13 23:37:55.707662 - Found LOADALT.xmi (application/xmit) in CBT.V508.FILE865.PDS, moved to PDS/LOADALT.xmi
-2025-04-13 23:37:55.748803 - Received SBGOLOB.MINIZIP.LINKLIB from LOADALT.xmi 
-2025-04-13 23:37:55.749405 - Found MINIUNZ.bin (application/octet-stream) in SBGOLOB.MINIZIP.LINKLIB, moved to LOADALT/MINIUNZ
-2025-04-13 23:37:55.749612 - Found MINIZIP.bin (application/octet-stream) in SBGOLOB.MINIZIP.LINKLIB, moved to LOADALT/MINIZIP
-2025-04-13 23:37:55.750160 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE865.PDS, moved to PDS/LOADLIB.xmi
-2025-04-13 23:37:55.792832 - Received SBGOLOB.MINIZIP.LOAD from LOADLIB.xmi 
-2025-04-13 23:37:55.793430 - Found MINIUNZ.bin (application/octet-stream) in SBGOLOB.MINIZIP.LOAD, moved to LOADLIB/MINIUNZ
-2025-04-13 23:37:55.793618 - Found MINIZIP.bin (application/octet-stream) in SBGOLOB.MINIZIP.LOAD, moved to LOADLIB/MINIZIP
-2025-04-13 23:37:55.794065 - Found LOAD1.xmi (application/xmit) in CBT.V508.FILE865.PDS, moved to PDS/LOAD1.xmi
-2025-04-13 23:37:55.837390 - Received SBGOLOB.MINIZIP.LOAD from LOAD1.xmi 
-2025-04-13 23:37:55.837998 - Found MINIUNZ.bin (application/octet-stream) in SBGOLOB.MINIZIP.LOAD, moved to LOAD1/MINIUNZ
-2025-04-13 23:37:55.838205 - Found MINIZIP.bin (application/octet-stream) in SBGOLOB.MINIZIP.LOAD, moved to LOAD1/MINIZIP
-2025-04-13 23:37:55.838466 - Found LZIP.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/LZIP
-2025-04-13 23:37:55.838700 - Found MINIUNZ.bin (application/octet-stream) in CBT.V508.FILE865.PDS, moved to PDS/MINIUNZ
-2025-04-13 23:37:55.839204 - Found MINIZIP.bin (application/octet-stream) in CBT.V508.FILE865.PDS, moved to PDS/MINIZIP
-2025-04-13 23:37:55.839275 - Found MINIZIP#.txt (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/MINIZIP#
-2025-04-13 23:37:55.839338 - Found TESTHEX.bin (application/octet-stream) in CBT.V508.FILE865.PDS, moved to PDS/TESTHEX
-2025-04-13 23:37:55.839396 - Found UNZ01.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/UNZ01
-2025-04-13 23:37:55.839454 - Found UNZ02.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/UNZ02
-2025-04-13 23:37:55.839525 - Found UNZ99A.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/UNZ99A
-2025-04-13 23:37:55.839589 - Found UNZ99AM.txt (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/UNZ99AM
-2025-04-13 23:37:55.839647 - Found ZIP01.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/ZIP01
-2025-04-13 23:37:55.839703 - Found ZIP02.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/ZIP02
+2025-04-15 06:18:16.927213 - Received CBT.V508.FILE865.PDS from FILE865.XMI 
+2025-04-15 06:18:16.928563 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/$$$#DATE
+2025-04-15 06:18:16.928831 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/$$NOTE01
+2025-04-15 06:18:16.929013 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/$$NOTE02
+2025-04-15 06:18:16.929160 - Found @FILE865.txt (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/@FILE865
+2025-04-15 06:18:16.929273 - Found LINKZIP.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/LINKZIP
+2025-04-15 06:18:16.929919 - Found LOADALT.xmi (application/xmit) in CBT.V508.FILE865.PDS, moved to PDS/LOADALT.xmi
+2025-04-15 06:18:16.970852 - Received SBGOLOB.MINIZIP.LINKLIB from LOADALT.xmi 
+2025-04-15 06:18:16.971713 - Found MINIUNZ.bin (application/octet-stream) in SBGOLOB.MINIZIP.LINKLIB, moved to LOADALT/MINIUNZ
+2025-04-15 06:18:16.972188 - Found MINIZIP.bin (application/octet-stream) in SBGOLOB.MINIZIP.LINKLIB, moved to LOADALT/MINIZIP
+2025-04-15 06:18:16.972910 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE865.PDS, moved to PDS/LOADLIB.xmi
+2025-04-15 06:18:17.014797 - Received SBGOLOB.MINIZIP.LOAD from LOADLIB.xmi 
+2025-04-15 06:18:17.015758 - Found MINIUNZ.bin (application/octet-stream) in SBGOLOB.MINIZIP.LOAD, moved to LOADLIB/MINIUNZ
+2025-04-15 06:18:17.016136 - Found MINIZIP.bin (application/octet-stream) in SBGOLOB.MINIZIP.LOAD, moved to LOADLIB/MINIZIP
+2025-04-15 06:18:17.016961 - Found LOAD1.xmi (application/xmit) in CBT.V508.FILE865.PDS, moved to PDS/LOAD1.xmi
+2025-04-15 06:18:17.057960 - Received SBGOLOB.MINIZIP.LOAD from LOAD1.xmi 
+2025-04-15 06:18:17.058896 - Found MINIUNZ.bin (application/octet-stream) in SBGOLOB.MINIZIP.LOAD, moved to LOAD1/MINIUNZ
+2025-04-15 06:18:17.059310 - Found MINIZIP.bin (application/octet-stream) in SBGOLOB.MINIZIP.LOAD, moved to LOAD1/MINIZIP
+2025-04-15 06:18:17.059672 - Found LZIP.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/LZIP
+2025-04-15 06:18:17.060242 - Found MINIUNZ.bin (application/octet-stream) in CBT.V508.FILE865.PDS, moved to PDS/MINIUNZ
+2025-04-15 06:18:17.060739 - Found MINIZIP.bin (application/octet-stream) in CBT.V508.FILE865.PDS, moved to PDS/MINIZIP
+2025-04-15 06:18:17.060861 - Found MINIZIP#.txt (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/MINIZIP#
+2025-04-15 06:18:17.060981 - Found TESTHEX.bin (application/octet-stream) in CBT.V508.FILE865.PDS, moved to PDS/TESTHEX
+2025-04-15 06:18:17.061091 - Found UNZ01.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/UNZ01
+2025-04-15 06:18:17.061205 - Found UNZ02.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/UNZ02
+2025-04-15 06:18:17.061335 - Found UNZ99A.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/UNZ99A
+2025-04-15 06:18:17.061467 - Found UNZ99AM.txt (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/UNZ99AM
+2025-04-15 06:18:17.061580 - Found ZIP01.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/ZIP01
+2025-04-15 06:18:17.061698 - Found ZIP02.jcl (text/plain) in CBT.V508.FILE865.PDS, moved to PDS/ZIP02
